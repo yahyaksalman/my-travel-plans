@@ -1,0 +1,49 @@
+.title {
+  background-color: #37474F;
+  text-align: center;
+  color: white;
+  font-size: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+.app {
+background-color: yellow;
+margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.s1{
+	margin-top: 13px;
+  margin-bottom: 10px;
+  margin-right: 13px;
+  margin-left: 13px;
+}
+.s2{
+	margin-top: 13px;
+  margin-bottom: 10px;
+  margin-right: 13px;
+  margin-left: 13px;
+}
+.s3{
+	margin-top: 13px;
+  margin-bottom: 10px;
+  margin-right: 13px;
+  margin-left: 13px;
+}
+.s4{
+	margin-top: 13px;
+  margin-bottom: 10px;
+  margin-right: 13px;
+  margin-left: 13px;
+}
+.app2{
+background-color: pink;
+margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
